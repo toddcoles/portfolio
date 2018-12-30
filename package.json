@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My personal portfolio website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toddcoles/portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Todd Coles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toddcoles/portfolio/issues"
+  },
+  "homepage": "https://github.com/toddcoles/portfolio#readme"
+}
